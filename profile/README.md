@@ -1,4 +1,4 @@
-## 🌐 Queazified-co-uk
+## 🌐 Queazified.co.uk
 Welcome to the official GitHub organisation for Queazified.co.uk!
 We build, manage, and share open-source and private projects that power our network, services, and community.
 
